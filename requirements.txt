@@ -1,2 +1,7 @@
 numpy
 pandas
+python-dotenv #help to read env variable
+mysql-connector-python
+pymysql
+scikit-learn
+SQLAlchemy
