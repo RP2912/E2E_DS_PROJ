@@ -5,3 +5,5 @@ mysql-connector-python
 pymysql
 scikit-learn
 SQLAlchemy
+seaborn
+matplotlib
