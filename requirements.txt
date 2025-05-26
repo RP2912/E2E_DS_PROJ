@@ -7,3 +7,5 @@ scikit-learn
 SQLAlchemy
 seaborn
 matplotlib
+mlflow
+

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Data%20science/Projects/E2E_DS_Proj_KN/mlruns/0/f7e570ed242f445c925d92c8be6ac56d/artifacts
+end_time: 1748295377075
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f7e570ed242f445c925d92c8be6ac56d
+run_name: delicate-hound-370
+run_uuid: f7e570ed242f445c925d92c8be6ac56d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748295292133
+status: 3
+tags: []
+user_id: root
